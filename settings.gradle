@@ -1,0 +1,4 @@
+include 'app',
+        'internal:chooser',
+        'internal:lint',
+        'internal:lintchecks'
